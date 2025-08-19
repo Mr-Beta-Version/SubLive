@@ -5,7 +5,7 @@
 domain=$1
 
 if [ -z "$domain" ]; then
-    echo "Usage: $0 domain.com"
+    echo "Usage: sublive domain.com"
     exit 1
 fi
 
