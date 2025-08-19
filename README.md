@@ -1,6 +1,8 @@
 # SubLive
 Live Sub domain Finder
 
+# Install
+
 ```
 cd
 
@@ -14,3 +16,8 @@ chmod +x $PREFIX/bin/sublive
 
 ```
 
+# Run
+
+```
+sublive domain.com
+```
